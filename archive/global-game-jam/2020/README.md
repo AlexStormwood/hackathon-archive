@@ -1,5 +1,6 @@
 # Main Theme
-## 
+## Repair
+https://v3.globalgamejam.org/news/theme-ggj-2020-%E2%80%A6
 
 # Sponsored
 ## Party Maker (Sponsored by AirConsole)
@@ -14,9 +15,8 @@ Create a co-operative multiplayer game that encourages collaboration and kindnes
 ## Language-Independence (Sponsored by Valve Software)
 Create a game that can be understood regardless of which language the player speaks.
 
-## TBC
-(Sponsored by Microsoft)
-TBC.
+## "Level Up!" (Sponsored by Microsoft)
+Create a levelling system that promotes player behavior to include others in your game using Azure PlayFab. Help everyone play and level up together! 
 
  
 # Accessibility
@@ -114,4 +114,4 @@ All members of your game jam team get 8 hours of sleep, 10 minutes of exercise a
 the game world is the same as the one from another game made by a neighbor team.
 
 ## Is there anybody out there?
- You think you’re playing with others, but really it’s just you.
+You think you’re playing with others, but really it’s just you.
