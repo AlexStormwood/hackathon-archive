@@ -4,6 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://alexstormwood.github.io',
+  	base: 'hackathon-archive',
 	integrations: [
 		starlight({
 			title: "Bigfoot's Hackathon Archive",
