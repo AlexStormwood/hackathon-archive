@@ -3,7 +3,7 @@ name: CD - Astro Build & Deploy
 on:
   push:
     branches:
-      - main
+      - master
 
 # Sets permissions missed by the web GUI
 permissions:
