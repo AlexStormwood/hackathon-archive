@@ -36,6 +36,10 @@ export default defineConfig({
 					label: 'Ubisoft Australia',
 					autogenerate: { directory: 'ubisoft-australia' },
 				},
+				{
+					label: 'Game Maker\'s Toolkit Game Jam',
+					autogenerate: { directory: 'gmtk-game-jam' },
+				},
 			],
 		}),
 	],
