@@ -40,6 +40,10 @@ export default defineConfig({
 					label: 'Game Maker\'s Toolkit Game Jam',
 					autogenerate: { directory: 'gmtk-game-jam' },
 				},
+				{
+					label: 'SXSW Sydney Annual Game Jam',
+					autogenerate: { directory: 'sxsw-sydney' },
+				},
 			],
 		}),
 	],
