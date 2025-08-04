@@ -4,7 +4,7 @@ description: Themes, diversifiers, and other info about SXSW Sydney Annual Game 
 ---
 
 ## Main Theme
-### SNAKE
+### COWBOYS
 
 Jam page: [https://itch.io/jam/sxsw-sydney-game-jam-2024](https://itch.io/jam/sxsw-sydney-game-jam-2024)
 
@@ -21,9 +21,11 @@ The shortlisted games will be showcased one night during the SXSW Sydney Games F
 The SXSW Sydney 2024 CowboyJam will be run remotely between August 1- August 31 2024.
 
 ### Theme
+
 The theme of SXSW Sydney 2024's CowboyJam should be obvious, but in case you need it spelled out for you, the theme is: 
 
-🤠👉👉 **COWBOYS** 👈👈🤠
+#### 🤠👉👉 **COWBOYS** 👈👈🤠
+
 You can interpret this how you like! You could treat it as wild western theming, recontextualise a cowboy to a new setting or even just put a cowboy hat on something. Have fun with the theming and use it to inspire something unique  and left of field. 
 
 ### Criteria & Judging
