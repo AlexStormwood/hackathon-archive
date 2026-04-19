@@ -16,3 +16,11 @@ It can be useful for planning out your own themed or goal-driven events, or for 
 - Ubisoft Australia Game Jam
 - Sydney Ferry Jam
 - React Jam
+
+
+## TODO
+
+These event series should get added at some point too:
+
+- js13k - https://js13kgames.com/2025/
+- Gamedev.js jam - https://gamedevjs.com/jam/2026/ 
