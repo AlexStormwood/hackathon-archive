@@ -37,6 +37,10 @@ export default defineConfig({
 					autogenerate: { directory: 'ubisoft-australia' },
 				},
 				{
+					label: 'Sydney Ferry Jam',
+					autogenerate: { directory: 'sydney-ferry-jam' },
+				},
+				{
 					label: 'Game Maker\'s Toolkit Game Jam',
 					autogenerate: { directory: 'gmtk-game-jam' },
 				},
